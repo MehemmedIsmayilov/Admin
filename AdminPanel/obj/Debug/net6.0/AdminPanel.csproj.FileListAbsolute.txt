@@ -1,0 +1,15 @@
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.exe
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.deps.json
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.runtimeconfig.json
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.dll
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\bin\Debug\net6.0\AdminPanel.pdb
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.AssemblyInfo.cs
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.dll
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\obj\Debug\net6.0\refint\AdminPanel.dll
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.pdb
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\obj\Debug\net6.0\AdminPanel.genruntimeconfig.cache
+C:\Users\Mehemmed\source\repos\AdminPanel\AdminPanel\obj\Debug\net6.0\ref\AdminPanel.dll
